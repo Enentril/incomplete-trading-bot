@@ -5,7 +5,6 @@
 # You will also find improvement ideas and explanations
 
 import alpaca_trade_api as tradeapi
-
 import numpy as np
 import tulipy as ti
 import os, time, threading, pytz
